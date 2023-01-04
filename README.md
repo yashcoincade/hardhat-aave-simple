@@ -1,0 +1,1 @@
+This is a simple script made to interact with aave protocol v2.
